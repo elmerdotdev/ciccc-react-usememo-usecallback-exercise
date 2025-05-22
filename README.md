@@ -5,7 +5,7 @@
 ## Instructions
 
 1. Create a new React project by running `npm create vite@latest memo-callback`
-2. Create a `count` state in your `App.tsx` component and a incrementing button that just increases the value by 1.
+2. Create a `count` state in your `App.tsx` component and a incrementing button that just increases the value by one.
 
 ### memo
 
